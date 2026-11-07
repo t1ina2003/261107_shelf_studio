@@ -1,0 +1,1 @@
+{"name":"shelf-studio","version":"1.0.0","private":true,"type":"module","description":"Mobile-first shelf planner with photo cutouts, touch arrangement, background removal and local backups.","scripts":{"test":"node --test tests/*.test.js","check":"node --check app.js && node --check core.js && node --check presets.js","start":"python -m http.server 8000"}}
